@@ -253,7 +253,7 @@ dependencies = [
 [[package]]
 name = "nom-json-parser"
 version = "0.1.0"
-source = "git+https://github.com/drshade/nom-json-parser#79ab9c318c868ba4c831e116249c6d0aa9dfea29"
+source = "git+https://github.com/synthesis-labs/nom-json-parser#79ab9c318c868ba4c831e116249c6d0aa9dfea29"
 dependencies = [
  "aho-corasick",
  "arrayvec",
