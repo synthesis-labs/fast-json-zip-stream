@@ -1,0 +1,12 @@
+[package]
+name = "fast-json-zip-stream"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+nom-json-parser = { git = "https://github.com/drshade/nom-json-parser" } # { path = "../nom-json-parser" }
+nom = "5.0.1"
+flate2 = "1.0.26"
+chrono = "0.4.26"
